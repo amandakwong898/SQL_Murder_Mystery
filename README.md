@@ -1,2 +1,2 @@
-# SQL_Murder_Mystery
+# SQL Murder Mystery
 https://mystery.knightlab.com/
